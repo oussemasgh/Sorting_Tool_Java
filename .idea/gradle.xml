@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Sorting Tool (Java)/task" />
+            <option value="$PROJECT_DIR$/Sorting Tool (Java)/task/build/classes/kotlin" />
+            <option value="$PROJECT_DIR$/Sorting Tool (Java)/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Sorting Tool (Java)/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Sorting Tool (Java)/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/A method taking an array" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Application as a class" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/What does the method print" />
+            <option value="$PROJECT_DIR$/Topics/Boxing and unboxing/Identify a possible exception" />
+            <option value="$PROJECT_DIR$/Topics/Boxing and unboxing/Only true or false" />
+            <option value="$PROJECT_DIR$/Topics/Boxing and unboxing/Result of the code" />
+            <option value="$PROJECT_DIR$/Topics/Boxing and unboxing/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Boxing and unboxing/Wrapper classes for char and int" />
+            <option value="$PROJECT_DIR$/Topics/Calling a method/Area of parallelogram" />
+            <option value="$PROJECT_DIR$/Topics/Calling a method/Call me awesome" />
+            <option value="$PROJECT_DIR$/Topics/Calling a method/Correct names for methods" />
+            <option value="$PROJECT_DIR$/Topics/Calling a method/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Command-line arguments/Command line arguments" />
+            <option value="$PROJECT_DIR$/Topics/Command-line arguments/How to pass ints" />
+            <option value="$PROJECT_DIR$/Topics/Command-line arguments/Parameters and their values" />
+            <option value="$PROJECT_DIR$/Topics/Command-line arguments/The index of an argument" />
+            <option value="$PROJECT_DIR$/Topics/Command-line arguments/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Comparable/Implement Comparable" />
+            <option value="$PROJECT_DIR$/Topics/Comparable/Implement compareTo method" />
+            <option value="$PROJECT_DIR$/Topics/Comparable/Rewrite compareTo method" />
+            <option value="$PROJECT_DIR$/Topics/Comparable/Rules" />
+            <option value="$PROJECT_DIR$/Topics/Comparable/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Comparable/Value class" />
+            <option value="$PROJECT_DIR$/Topics/Comparator/Sort users" />
+            <option value="$PROJECT_DIR$/Topics/Comparator/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Constructor/Account" />
+            <option value="$PROJECT_DIR$/Topics/Constructor/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Find the error" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Default methods/Resolve a diamond problem" />
+            <option value="$PROJECT_DIR$/Topics/Default methods/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Enums in Java/Days of week" />
+            <option value="$PROJECT_DIR$/Topics/Enums in Java/Enum with two constants" />
+            <option value="$PROJECT_DIR$/Topics/Enums in Java/Hidden enumeration" />
+            <option value="$PROJECT_DIR$/Topics/Enums in Java/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Enumset/EnumSet" />
+            <option value="$PROJECT_DIR$/Topics/Enumset/Error" />
+            <option value="$PROJECT_DIR$/Topics/Enumset/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Enumset/Vaccination" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs/Fix the program" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Fields and methods in enum/Balance management" />
+            <option value="$PROJECT_DIR$/Topics/Fields and methods in enum/Elements of enum" />
+            <option value="$PROJECT_DIR$/Topics/Fields and methods in enum/Planets of the solar system" />
+            <option value="$PROJECT_DIR$/Topics/Fields and methods in enum/System of units" />
+            <option value="$PROJECT_DIR$/Topics/Fields and methods in enum/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Files/A relative path" />
+            <option value="$PROJECT_DIR$/Topics/Files/Are siblings" />
+            <option value="$PROJECT_DIR$/Topics/Files/Getting information" />
+            <option value="$PROJECT_DIR$/Topics/Files/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Files/Сorrect statements" />
+            <option value="$PROJECT_DIR$/Topics/Functional interfaces/A lambda expression with seven arguments" />
+            <option value="$PROJECT_DIR$/Topics/Functional interfaces/Ternary predicate" />
+            <option value="$PROJECT_DIR$/Topics/Functional interfaces/The requirement" />
+            <option value="$PROJECT_DIR$/Topics/Functional interfaces/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Hiding and overriding/Saying animals" />
+            <option value="$PROJECT_DIR$/Topics/Hiding and overriding/Shapes area" />
+            <option value="$PROJECT_DIR$/Topics/Hiding and overriding/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Hiding and overriding/Which methods cannot be overridden" />
+            <option value="$PROJECT_DIR$/Topics/NPE/Avoid NPE with strings" />
+            <option value="$PROJECT_DIR$/Topics/NPE/Lines that may throw NPE" />
+            <option value="$PROJECT_DIR$/Topics/NPE/Return empty string when argument is null" />
+            <option value="$PROJECT_DIR$/Topics/NPE/Theory" />
+            <option value="$PROJECT_DIR$/Topics/NPE/Unknown input" />
+            <option value="$PROJECT_DIR$/Topics/String/Check prefix ignoring the case" />
+            <option value="$PROJECT_DIR$/Topics/String/Extracting a substring" />
+            <option value="$PROJECT_DIR$/Topics/String/Finding string expressions" />
+            <option value="$PROJECT_DIR$/Topics/String/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Switch statement/Shape" />
+            <option value="$PROJECT_DIR$/Topics/Switch statement/Test learners" />
+            <option value="$PROJECT_DIR$/Topics/Switch statement/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The Collections Framework overview/Blacklist" />
+            <option value="$PROJECT_DIR$/Topics/The Collections Framework overview/Root interfaces" />
+            <option value="$PROJECT_DIR$/Topics/The Collections Framework overview/Supported collections" />
+            <option value="$PROJECT_DIR$/Topics/The Collections Framework overview/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Count the value occurrences" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Equal lists" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Implementations" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Setting a new name" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/The longest string in the list" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Comparing sets" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Creating a set" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Elements of a set" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Implementations" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Removing elements" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The for-loop/From sum to product" />
+            <option value="$PROJECT_DIR$/Topics/The for-loop/Statements" />
+            <option value="$PROJECT_DIR$/Topics/The for-loop/The product of numbers from a to b" />
+            <option value="$PROJECT_DIR$/Topics/The for-loop/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The keyword super/Bank account" />
+            <option value="$PROJECT_DIR$/Topics/The keyword super/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The keyword super/Why we use the super keyword" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/Collatz conjecture" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/Determine the result" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/Squares of natural numbers" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/Statements" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/The length of the sequence" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

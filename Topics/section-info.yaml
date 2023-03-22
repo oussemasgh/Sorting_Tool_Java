@@ -1,0 +1,26 @@
+content:
+- The while and do-while loops
+- The for-loop
+- Switch statement
+- Calling a method
+- Arrays as parameters
+- String
+- Errors in programs
+- NPE
+- Constructor
+- The keyword super
+- Boxing and unboxing
+- Command-line arguments
+- Debugging techniques
+- Hiding and overriding
+- Enums in Java
+- Fields and methods in enum
+- Default methods
+- Functional interfaces
+- The Collections Framework overview
+- The List interface
+- Comparable
+- The Set interface
+- Enumset
+- Comparator
+- Files

@@ -1,0 +1,25 @@
+# Project exclude paths
+/.gradle/
+/Sorting Tool (Java)/task/build/
+/Sorting Tool (Java)/task/out/
+/Sorting Tool (Java)/task/out/production/classes/
+/Topics/Arrays as parameters/A method taking an array/out/
+/Topics/Arrays as parameters/A method taking an array/out/production/classes/
+/Topics/Calling a method/Area of parallelogram/out/
+/Topics/Calling a method/Area of parallelogram/out/production/classes/
+/Topics/Debugging techniques/Find the error/out/
+/Topics/Debugging techniques/Find the error/out/production/classes/
+/Topics/NPE/Avoid NPE with strings/out/
+/Topics/NPE/Avoid NPE with strings/out/production/classes/
+/Topics/NPE/Return empty string when argument is null/out/
+/Topics/NPE/Return empty string when argument is null/out/production/classes/
+/Topics/String/Check prefix ignoring the case/out/
+/Topics/String/Check prefix ignoring the case/out/production/classes/
+/Topics/String/Extracting a substring/out/
+/Topics/String/Extracting a substring/out/production/classes/
+/Topics/Switch statement/Shape/out/
+/Topics/Switch statement/Shape/out/production/classes/
+/Topics/The while and do-while loops/Collatz conjecture/out/
+/Topics/The while and do-while loops/Collatz conjecture/out/production/classes/
+/Topics/The while and do-while loops/The length of the sequence/out/
+/Topics/The while and do-while loops/The length of the sequence/out/production/classes/
